@@ -9,9 +9,6 @@ name: render-readme
 on:
   workflow_dispatch:
   push:
-    paths:
-      - 'README.Rmd'
-      - '.github/workflows/render_readme.yaml'
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
