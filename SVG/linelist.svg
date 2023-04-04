@@ -32,9 +32,9 @@
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="3.1248406"
-   inkscape:cx="104.64534"
-   inkscape:cy="272.81391"
+   inkscape:zoom="1.5624203"
+   inkscape:cx="117.12597"
+   inkscape:cy="176.32899"
    inkscape:window-width="1869"
    inkscape:window-height="1057"
    inkscape:window-x="51"
@@ -58,7 +58,12 @@
 	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;fill-opacity:0.6145;}
 	.st12{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;fill-opacity:0.5502;}
 </style>
-<g
+<path
+   class="st4"
+   d="M 168.5,0 0,97.3 v 194.6 l 168.5,97.3 168.4,-97.3 V 97.3 Z"
+   id="path1493-7"
+   style="fill:#ffffff;fill-opacity:1"
+   sodipodi:nodetypes="ccccccc" /><g
    id="g1482"
    transform="translate(-140.53,-199.01)">
 	<path
