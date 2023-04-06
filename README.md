@@ -9,6 +9,9 @@ hex-stickers repo](https://github.com/rstudio/hex-stickers).
 <table>
 <tr>
 <td>
+<img alt="Logo for epiparameter" src="thumbs/epiparameter.png" width="120" height="139"><br /><a href="PNG/epiparameter.png">epiparameter.png</a><br /><a href="SVG/epiparameter.svg">epiparameter.svg</a>
+</td>
+<td>
 <img alt="Logo for episoap" src="thumbs/episoap.png" width="120" height="139"><br /><a href="PNG/episoap.png">episoap.png</a><br /><a href="SVG/episoap.svg">episoap.svg</a>
 </td>
 <td>
