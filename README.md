@@ -24,4 +24,9 @@ hex-stickers repo](https://github.com/rstudio/hex-stickers).
 <img alt="Logo for scenarios" src="thumbs/scenarios.png" width="120" height="139"><br /><a href="PNG/scenarios.png">scenarios.png</a><br /><a href="SVG/scenarios.svg">scenarios.svg</a>
 </td>
 </tr>
+<tr>
+<td>
+<img alt="Logo for serofoi" src="thumbs/serofoi.png" width="120" height="139"><br /><a href="PNG/serofoi.png">serofoi.png</a><br /><a href="SVG/serofoi.svg">serofoi.svg</a>
+</td>
+</tr>
 </table>
