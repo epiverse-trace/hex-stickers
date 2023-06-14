@@ -1,0 +1,46 @@
+name: check-logo-sizes
+
+on:
+  workflow_dispatch:
+  pull_request:
+    branches:
+      - 'main'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check-logo-sizes:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout repos
+        uses: actions/checkout@v3
+
+      - name: Check PNG/ folder
+        run: |
+          for f in PNG/*
+          do
+          EXTRA_PIXS=$(identify -ping -format '%W-2521+%H-2911\n' $f | bc -l)
+          if [[ $EXTRA_PIXS -gt 20 || $EXTRA_PIXS -lt -20 ]]
+          then
+            echo "$f should have dimensions 2521x2911"
+            exit 1
+          fi
+          done
+
+      - name: Check thumbs/ folder
+        # Run this step even if previous failed
+        if: success() || failure()
+        run: |
+          for f in thumbs/*
+          do
+          EXTRA_PIXS=$(identify -ping -format '%W-218+%H-252\n' $f | bc -l)
+          if [[ $EXTRA_PIXS -gt 5 || $EXTRA_PIXS -lt -5 ]]
+          then
+            echo "$f should have dimensions 218x252"
+            exit 1
+          fi
+          done
