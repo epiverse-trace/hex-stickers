@@ -31,19 +31,19 @@ jobs:
       - name: Check if svg contains text
         shell: Rscript {0}
         run: |
-          res <- list.files("SVG", full.names = TRUE) |>
+          svg_logos <- list.files("SVG", full.names = TRUE)
+          res <- svg_logos |>
             lapply(function(x) {
-              l <- xml2::read_xml(x) |>
-                xml2::xml_find_all("//*[starts-with(local-name(), 'text')]") |>
-                length()
-              if (l >= 1) {
-                {
-                  withRestarts(stop(
-                    basename(x), " contains text. ",
-                    "All text should be converted to outline. ",
-                    "See CONTRIBUTING.md for more info.",
-                    call. = FALSE
-                  ), abort = function() {})
-                }
-              }
+              xml2::read_xml(x) |>
+                xml2::xml_find_all("//*[starts-with(local-name(), 'text')]")
             })
+          if (any(lengths(res) >= 1)) {
+            stop(
+              "You are adding logos that contain text. ",
+              "All text should be converted to outline. ",
+              "See CONTRIBUTING.md for more info.\n",
+              "Problematic logos:\n  ",
+              paste(svg_logos[lengths(res) >= 1], collapse = "\n  "),
+              call. = FALSE
+            )
+          }
