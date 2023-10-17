@@ -51,5 +51,8 @@ hex-stickers repo](https://github.com/rstudio/hex-stickers).
 <td>
 <img alt="Logo for superspreading" src="thumbs/superspreading.png" width="120" height="139"><br /><a href="PNG/superspreading.png">superspreading.png</a><br /><a href="SVG/superspreading.svg">superspreading.svg</a>
 </td>
+<td>
+<img alt="Logo for vaccineff" src="thumbs/vaccineff.png" width="120" height="139"><br /><a href="PNG/vaccineff.png">vaccineff.png</a><br /><a href="SVG/vaccineff.svg">vaccineff.svg</a>
+</td>
 </tr>
 </table>
