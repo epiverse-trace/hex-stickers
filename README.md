@@ -15,22 +15,33 @@ hex-stickers repo](https://github.com/rstudio/hex-stickers).
 <img alt="Logo for cleanepi" src="thumbs/cleanepi.png" width="120" height="139"><br /><a href="PNG/cleanepi.png">cleanepi.png</a><br /><a href="SVG/cleanepi.svg">cleanepi.svg</a>
 </td>
 <td>
+<img alt="Logo for ColOpenData" src="thumbs/ColOpenData.png" width="120" height="139"><br /><a href="PNG/ColOpenData.png">ColOpenData.png</a><br /><a href="SVG/ColOpenData.svg">ColOpenData.svg</a>
+</td>
+<td>
 <img alt="Logo for epichains" src="thumbs/epichains.png" width="120" height="139"><br /><a href="PNG/epichains.png">epichains.png</a><br /><a href="SVG/epichains.svg">epichains.svg</a>
 </td>
+<td>
+<img alt="Logo for epiCo" src="thumbs/epiCo.png" width="120" height="139"><br /><a href="PNG/epiCo.png">epiCo.png</a><br /><a href="SVG/epiCo.svg">epiCo.svg</a>
+</td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for epidemics" src="thumbs/epidemics.png" width="120" height="139"><br /><a href="PNG/epidemics.png">epidemics.png</a><br /><a href="SVG/epidemics.svg">epidemics.svg</a>
 </td>
 <td>
 <img alt="Logo for epiparameter" src="thumbs/epiparameter.png" width="120" height="139"><br /><a href="PNG/epiparameter.png">epiparameter.png</a><br /><a href="SVG/epiparameter.svg">epiparameter.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for episoap" src="thumbs/episoap.png" width="120" height="139"><br /><a href="PNG/episoap.png">episoap.png</a><br /><a href="SVG/episoap.svg">episoap.svg</a>
 </td>
 <td>
 <img alt="Logo for finalsize" src="thumbs/finalsize.png" width="120" height="139"><br /><a href="PNG/finalsize.png">finalsize.png</a><br /><a href="SVG/finalsize.svg">finalsize.svg</a>
 </td>
+<td>
+<img alt="Logo for iraca" src="thumbs/iraca.png" width="120" height="139"><br /><a href="PNG/iraca.png">iraca.png</a><br /><a href="SVG/iraca.svg">iraca.svg</a>
+</td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for linelist" src="thumbs/linelist.png" width="120" height="139"><br /><a href="PNG/linelist.png">linelist.png</a><br /><a href="SVG/linelist.svg">linelist.svg</a>
 </td>
@@ -40,14 +51,14 @@ hex-stickers repo](https://github.com/rstudio/hex-stickers).
 <td>
 <img alt="Logo for scenarios" src="thumbs/scenarios.png" width="120" height="139"><br /><a href="PNG/scenarios.png">scenarios.png</a><br /><a href="SVG/scenarios.svg">scenarios.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for serofoi" src="thumbs/serofoi.png" width="120" height="139"><br /><a href="PNG/serofoi.png">serofoi.png</a><br /><a href="SVG/serofoi.svg">serofoi.svg</a>
 </td>
 <td>
 <img alt="Logo for sivirep" src="thumbs/sivirep.png" width="120" height="139"><br /><a href="PNG/sivirep.png">sivirep.png</a><br /><a href="SVG/sivirep.svg">sivirep.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for superspreading" src="thumbs/superspreading.png" width="120" height="139"><br /><a href="PNG/superspreading.png">superspreading.png</a><br /><a href="SVG/superspreading.svg">superspreading.svg</a>
 </td>
