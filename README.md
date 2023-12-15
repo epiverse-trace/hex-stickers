@@ -55,10 +55,13 @@ hex-stickers repo](https://github.com/rstudio/hex-stickers).
 <img alt="Logo for serofoi" src="thumbs/serofoi.png" width="120" height="139"><br /><a href="PNG/serofoi.png">serofoi.png</a><br /><a href="SVG/serofoi.svg">serofoi.svg</a>
 </td>
 <td>
-<img alt="Logo for sivirep" src="thumbs/sivirep.png" width="120" height="139"><br /><a href="PNG/sivirep.png">sivirep.png</a><br /><a href="SVG/sivirep.svg">sivirep.svg</a>
+<img alt="Logo for simulist" src="thumbs/simulist.png" width="120" height="139"><br /><a href="PNG/simulist.png">simulist.png</a><br /><a href="SVG/simulist.svg">simulist.svg</a>
 </td>
 </tr>
 <tr>
+<td>
+<img alt="Logo for sivirep" src="thumbs/sivirep.png" width="120" height="139"><br /><a href="PNG/sivirep.png">sivirep.png</a><br /><a href="SVG/sivirep.svg">sivirep.svg</a>
+</td>
 <td>
 <img alt="Logo for superspreading" src="thumbs/superspreading.png" width="120" height="139"><br /><a href="PNG/superspreading.png">superspreading.png</a><br /><a href="SVG/superspreading.svg">superspreading.svg</a>
 </td>
