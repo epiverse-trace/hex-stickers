@@ -4,6 +4,10 @@
 This repository is inspired and re-uses infrastructure from the [RStudio
 hex-stickers repo](https://github.com/rstudio/hex-stickers).
 
+To create a logo for a new Epiverse-TRACE package, check out our
+[one-page
+cheatsheet](https://datadotorg.box.com/v/epiverse-hexstickers).
+
 # Epiverse-TRACE hex stickers
 
 <table>
