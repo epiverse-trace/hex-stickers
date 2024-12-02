@@ -50,6 +50,9 @@ cheatsheet](https://datadotorg.box.com/v/epiverse-hexstickers).
 <img alt="Logo for linelist" src="thumbs/linelist.png" width="120" height="139"><br /><a href="PNG/linelist.png">linelist.png</a><br /><a href="SVG/linelist.svg">linelist.svg</a>
 </td>
 <td>
+<img alt="Logo for numberize" src="thumbs/numberize.png" width="120" height="139"><br /><a href="PNG/numberize.png">numberize.png</a><br /><a href="SVG/numberize.svg">numberize.svg</a>
+</td>
+<td>
 <img alt="Logo for readepi" src="thumbs/readepi.png" width="120" height="139"><br /><a href="PNG/readepi.png">readepi.png</a><br /><a href="SVG/readepi.svg">readepi.svg</a>
 </td>
 <td>
@@ -58,11 +61,11 @@ cheatsheet](https://datadotorg.box.com/v/epiverse-hexstickers).
 <td>
 <img alt="Logo for serofoi" src="thumbs/serofoi.png" width="120" height="139"><br /><a href="PNG/serofoi.png">serofoi.png</a><br /><a href="SVG/serofoi.svg">serofoi.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for simulist" src="thumbs/simulist.png" width="120" height="139"><br /><a href="PNG/simulist.png">simulist.png</a><br /><a href="SVG/simulist.svg">simulist.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for sivirep" src="thumbs/sivirep.png" width="120" height="139"><br /><a href="PNG/sivirep.png">sivirep.png</a><br /><a href="SVG/sivirep.svg">sivirep.svg</a>
 </td>
