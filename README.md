@@ -36,16 +36,19 @@ cheatsheet](https://datadotorg.box.com/v/epiverse-hexstickers).
 <img alt="Logo for epiparameter" src="thumbs/epiparameter.png" width="120" height="139"><br /><a href="PNG/epiparameter.png">epiparameter.png</a><br /><a href="SVG/epiparameter.svg">epiparameter.svg</a>
 </td>
 <td>
+<img alt="Logo for epiparameterDB" src="thumbs/epiparameterDB.png" width="120" height="139"><br /><a href="PNG/epiparameterDB.png">epiparameterDB.png</a><br /><a href="SVG/epiparameterDB.svg">epiparameterDB.svg</a>
+</td>
+<td>
 <img alt="Logo for episoap" src="thumbs/episoap.png" width="120" height="139"><br /><a href="PNG/episoap.png">episoap.png</a><br /><a href="SVG/episoap.svg">episoap.svg</a>
 </td>
 <td>
 <img alt="Logo for finalsize" src="thumbs/finalsize.png" width="120" height="139"><br /><a href="PNG/finalsize.png">finalsize.png</a><br /><a href="SVG/finalsize.svg">finalsize.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for iraca" src="thumbs/iraca.png" width="120" height="139"><br /><a href="PNG/iraca.png">iraca.png</a><br /><a href="SVG/iraca.svg">iraca.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for linelist" src="thumbs/linelist.png" width="120" height="139"><br /><a href="PNG/linelist.png">linelist.png</a><br /><a href="SVG/linelist.svg">linelist.svg</a>
 </td>
@@ -58,11 +61,11 @@ cheatsheet](https://datadotorg.box.com/v/epiverse-hexstickers).
 <td>
 <img alt="Logo for scenarios" src="thumbs/scenarios.png" width="120" height="139"><br /><a href="PNG/scenarios.png">scenarios.png</a><br /><a href="SVG/scenarios.svg">scenarios.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for serofoi" src="thumbs/serofoi.png" width="120" height="139"><br /><a href="PNG/serofoi.png">serofoi.png</a><br /><a href="SVG/serofoi.svg">serofoi.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for simulist" src="thumbs/simulist.png" width="120" height="139"><br /><a href="PNG/simulist.png">simulist.png</a><br /><a href="SVG/simulist.svg">simulist.svg</a>
 </td>
