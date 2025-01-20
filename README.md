@@ -42,10 +42,13 @@ cheatsheet](https://datadotorg.box.com/v/epiverse-hexstickers).
 <img alt="Logo for episoap" src="thumbs/episoap.png" width="120" height="139"><br /><a href="PNG/episoap.png">episoap.png</a><br /><a href="SVG/episoap.svg">episoap.svg</a>
 </td>
 <td>
-<img alt="Logo for finalsize" src="thumbs/finalsize.png" width="120" height="139"><br /><a href="PNG/finalsize.png">finalsize.png</a><br /><a href="SVG/finalsize.svg">finalsize.svg</a>
+<img alt="Logo for epitkit" src="thumbs/epitkit.png" width="120" height="139"><br /><a href="PNG/epitkit.png">epitkit.png</a><br /><a href="SVG/epitkit.svg">epitkit.svg</a>
 </td>
 </tr>
 <tr>
+<td>
+<img alt="Logo for finalsize" src="thumbs/finalsize.png" width="120" height="139"><br /><a href="PNG/finalsize.png">finalsize.png</a><br /><a href="SVG/finalsize.svg">finalsize.svg</a>
+</td>
 <td>
 <img alt="Logo for iraca" src="thumbs/iraca.png" width="120" height="139"><br /><a href="PNG/iraca.png">iraca.png</a><br /><a href="SVG/iraca.svg">iraca.svg</a>
 </td>
@@ -58,11 +61,11 @@ cheatsheet](https://datadotorg.box.com/v/epiverse-hexstickers).
 <td>
 <img alt="Logo for readepi" src="thumbs/readepi.png" width="120" height="139"><br /><a href="PNG/readepi.png">readepi.png</a><br /><a href="SVG/readepi.svg">readepi.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for scenarios" src="thumbs/scenarios.png" width="120" height="139"><br /><a href="PNG/scenarios.png">scenarios.png</a><br /><a href="SVG/scenarios.svg">scenarios.svg</a>
 </td>
-</tr>
-<tr>
 <td>
 <img alt="Logo for serofoi" src="thumbs/serofoi.png" width="120" height="139"><br /><a href="PNG/serofoi.png">serofoi.png</a><br /><a href="SVG/serofoi.svg">serofoi.svg</a>
 </td>
@@ -75,6 +78,8 @@ cheatsheet](https://datadotorg.box.com/v/epiverse-hexstickers).
 <td>
 <img alt="Logo for superspreading" src="thumbs/superspreading.png" width="120" height="139"><br /><a href="PNG/superspreading.png">superspreading.png</a><br /><a href="SVG/superspreading.svg">superspreading.svg</a>
 </td>
+</tr>
+<tr>
 <td>
 <img alt="Logo for vaccineff" src="thumbs/vaccineff.png" width="120" height="139"><br /><a href="PNG/vaccineff.png">vaccineff.png</a><br /><a href="SVG/vaccineff.svg">vaccineff.svg</a>
 </td>
